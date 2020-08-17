@@ -45,8 +45,8 @@ Implementing picture in picture functionality. You can open any screen, applicat
 
 ## Joke Teller - *project 04*
 
-|| [Live Demo](https://joketeller.marketastankova.repl.co/) || [Repo](https://repl.it/@MarketaStankova/JokeTeller#script.js)
+|| [Live Demo](https://joketeller.marketastankova.repl.co/) || [Repo](https://repl.it/@MarketaStankova/JokeTeller#script.js) ||
 
 ### Fetch, Async/Await, Joke API, Text-to-Speech
 
-We make an asynchronous fetch request to Joke API to get a joke. After that using Text-to-Speech API we create an audio.
+We make an asynchronous fetch request to Joke API to get a joke. After that we create an audio using Text-to-Speech API.
