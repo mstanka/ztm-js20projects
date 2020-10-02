@@ -50,3 +50,14 @@ Implementing picture in picture functionality. You can open any screen, applicat
 ### Fetch, Async/Await, Joke API, Text-to-Speech
 
 We make an asynchronous fetch request to Joke API to get a joke. After that we create an audio using Text-to-Speech API.
+
+---
+---
+
+## Light Dark Mode - *project 05*
+
+|| [Live Demo](https://lightdarkmode.marketastankova.repl.co/) || [Repo](https://repl.it/@MarketaStankova/LightDarkMode#index.html) ||
+
+### DOM, localStorage
+
+Switch between light and dark theme. Keep the user's preferred option in the localStorage.
