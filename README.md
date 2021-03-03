@@ -72,3 +72,14 @@ Switch between light and dark theme. Keep the user's preferred option in the loc
 ### CSS Animations
 
 Using animation with Animation on Scroll (AOS) library.
+
+---
+---
+
+## Animated Navigation - *project 07*
+
+|| [Live Demo](https://navigationnation.marketastankova.repl.co/) || [Repo](https://repl.it/@MarketaStankova/NavigationNation#index.html) ||
+
+### CSS Animations
+
+Animation on the navigation.
