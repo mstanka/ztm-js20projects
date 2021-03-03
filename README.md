@@ -61,3 +61,14 @@ We make an asynchronous fetch request to Joke API to get a joke. After that we c
 ### DOM, localStorage
 
 Switch between light and dark theme. Keep the user's preferred option in the localStorage.
+
+---
+---
+
+## Animated Template - *project 06*
+
+|| [Live Demo](https://animatedtemplate.marketastankova.repl.co/) || [Repo](https://repl.it/@MarketaStankova/AnimatedTemplate#index.html) ||
+
+### CSS Animations
+
+Using animation with Animation on Scroll (AOS) library.
