@@ -38,7 +38,7 @@ With this project, we are implementing infinite scroll functionality, which is o
 
 ### Picture-in-Picture API, Screen Capture API
 
-Implementing picture in picture functionality. You can open any screen, application, or tab in a movable, resizable new window that will stay on top of anything you do in the background.
+Implementing picture in picture functionality. The user can open any screen, application, or tab in a movable, resizable new window that will stay on top of anything you do in the background.
 
 ---
 ---
@@ -60,7 +60,7 @@ We make an asynchronous fetch request to Joke API to get a joke. After that we c
 
 ### DOM, localStorage
 
-Switch between light and dark theme. Keep the user's preferred option in the localStorage.
+The user can switch between light and dark theme. Using local storage the preferred option is remembered by the browser.
 
 ---
 ---
@@ -71,7 +71,7 @@ Switch between light and dark theme. Keep the user's preferred option in the loc
 
 ### CSS Animations
 
-Using animation with Animation on Scroll (AOS) library.
+Using animation on a template landing page with Animation on Scroll (AOS) library.
 
 ---
 ---
@@ -93,4 +93,15 @@ Animation on the navigation.
 
 ### HTML 5 Audio API
 
-You can play and pause a song, see the updating progress bar, or skip to the next or previous song.
+The user can play and pause a song, see the updating progress bar, or skip to the next or previous song.
+
+---
+---
+
+## Custom Countdown - *project 09*
+
+|| [Live Demo](https://customcountdown.marketastankova.repl.co/) || [Repo](https://repl.it/@MarketaStankova/CustomCountdown#index.html) ||
+
+### Date object, localStorage
+
+The user can enter a date they would like to countdown to and it will count down. Using local storage, they can keep their data even after reloading the window.
