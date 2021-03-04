@@ -83,3 +83,14 @@ Using animation with Animation on Scroll (AOS) library.
 ### CSS Animations
 
 Animation on the navigation.
+
+---
+---
+
+## Music Player - *project 08*
+
+|| [Live Demo](https://musicplayer.marketastankova.repl.co/) || [Repo](https://repl.it/@MarketaStankova/MusicPlayer#index.html) ||
+
+### HTML 5 Audio API
+
+You can play and pause a song, see the updating progress bar, or skip to the next or previous song.
